@@ -12,7 +12,7 @@ Clone this GitHub repository to your computer.
 
 
 Copy code
-git clone https://github.com/AlmaThePalma1/Ping-Pong-game.git
+git clone [https://github.com/AlmaThePalma1/Ping-Pong-game.git](https://github.com/AlmaThePalma1/Ping-Pong.git)
 Open the project folder in your favorite development environment.
 
 Run the game from the main file (e.g., ping_pong.py) using the appropriate programming language (e.g., Python).
